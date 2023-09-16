@@ -1,0 +1,16 @@
+---
+object: set
+id: ef3f6784-a6e8-41ff-8bed-72e0c7121298
+code: phop
+name: Planechase Promos
+uri: https://api.scryfall.com/sets/ef3f6784-a6e8-41ff-8bed-72e0c7121298
+scryfall_uri: https://scryfall.com/sets/phop
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aphop&unique=prints
+released_at: '2009-09-04'
+set_type: promo
+card_count: 2
+parent_set_code: hop
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800
